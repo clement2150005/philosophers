@@ -1,0 +1,1554 @@
+0     Philosopher 2 has taken a fork
+0     Philosopher 2 has taken a fork
+0     Philosopher 2 is eating
+0     Philosopher 2 will die at 800
+0     Philosopher 4 has taken a fork
+0     Philosopher 4 has taken a fork
+0     Philosopher 4 is eating
+0     Philosopher 4 will die at 800
+200   Philosopher 1 has taken a fork
+200   Philosopher 1 has taken a fork
+200   Philosopher 1 is eating
+200   Philosopher 1 will die at 1000
+200   Philosopher 2 is sleeping
+200   Philosopher 3 has taken a fork
+200   Philosopher 3 has taken a fork
+200   Philosopher 3 is eating
+200   Philosopher 3 will die at 1000
+200   Philosopher 4 is sleeping
+400   Philosopher 5 has taken a fork
+400   Philosopher 5 has taken a fork
+400   Philosopher 5 is eating
+400   Philosopher 5 will die at 1200
+400   Philosopher 1 is sleeping
+400   Philosopher 2 is thinking
+400   Philosopher 2 has taken a fork
+400   Philosopher 2 has taken a fork
+400   Philosopher 2 is eating
+400   Philosopher 2 will die at 1200
+400   Philosopher 3 is sleeping
+400   Philosopher 4 is thinking
+600   Philosopher 4 has taken a fork
+600   Philosopher 4 has taken a fork
+600   Philosopher 4 is eating
+600   Philosopher 4 will die at 1400
+600   Philosopher 5 is sleeping
+600   Philosopher 1 is thinking
+601   Philosopher 3 is thinking
+601   Philosopher 1 has taken a fork
+601   Philosopher 1 has taken a fork
+601   Philosopher 1 is eating
+601   Philosopher 1 will die at 1401
+601   Philosopher 2 is sleeping
+800   Philosopher 3 has taken a fork
+800   Philosopher 3 has taken a fork
+800   Philosopher 4 is sleeping
+800   Philosopher 3 is eating
+800   Philosopher 3 will die at 1600
+800   Philosopher 5 is thinking
+801   Philosopher 2 is thinking
+801   Philosopher 5 has taken a fork
+801   Philosopher 5 has taken a fork
+801   Philosopher 5 is eating
+801   Philosopher 5 will die at 1601
+801   Philosopher 1 is sleeping
+1000  Philosopher 4 is thinking
+1000  Philosopher 2 has taken a fork
+1000  Philosopher 2 has taken a fork
+1000  Philosopher 2 is eating
+1000  Philosopher 2 will die at 1800
+1000  Philosopher 3 is sleeping
+1001  Philosopher 1 is thinking
+1001  Philosopher 4 has taken a fork
+1001  Philosopher 4 has taken a fork
+1001  Philosopher 4 is eating
+1001  Philosopher 4 will die at 1801
+1001  Philosopher 5 is sleeping
+1200  Philosopher 1 has taken a fork
+1200  Philosopher 1 has taken a fork
+1200  Philosopher 1 is eating
+1200  Philosopher 1 will die at 2000
+1200  Philosopher 2 is sleeping
+1201  Philosopher 3 is thinking
+1201  Philosopher 3 has taken a fork
+1201  Philosopher 3 has taken a fork
+1201  Philosopher 3 is eating
+1201  Philosopher 3 will die at 2001
+1201  Philosopher 4 is sleeping
+1201  Philosopher 5 is thinking
+1401  Philosopher 2 is thinking
+1401  Philosopher 1 is sleeping
+1401  Philosopher 5 has taken a fork
+1401  Philosopher 5 has taken a fork
+1401  Philosopher 5 is eating
+1401  Philosopher 5 will die at 2201
+1401  Philosopher 4 is thinking
+1401  Philosopher 2 has taken a fork
+1401  Philosopher 2 has taken a fork
+1401  Philosopher 2 is eating
+1401  Philosopher 2 will die at 2201
+1401  Philosopher 3 is sleeping
+1601  Philosopher 1 is thinking
+1601  Philosopher 4 has taken a fork
+1601  Philosopher 4 has taken a fork
+1601  Philosopher 4 is eating
+1601  Philosopher 4 will die at 2401
+1601  Philosopher 5 is sleeping
+1601  Philosopher 1 has taken a fork
+1601  Philosopher 1 has taken a fork
+1601  Philosopher 1 is eating
+1601  Philosopher 1 will die at 2401
+1601  Philosopher 2 is sleeping
+1601  Philosopher 3 is thinking
+1801  Philosopher 5 is thinking
+1801  Philosopher 3 has taken a fork
+1801  Philosopher 3 has taken a fork
+1801  Philosopher 3 is eating
+1801  Philosopher 3 will die at 2601
+1801  Philosopher 4 is sleeping
+1801  Philosopher 2 is thinking
+1801  Philosopher 5 has taken a fork
+1801  Philosopher 5 has taken a fork
+1801  Philosopher 5 is eating
+1801  Philosopher 5 will die at 2601
+1801  Philosopher 1 is sleeping
+2001  Philosopher 4 is thinking
+2001  Philosopher 2 has taken a fork
+2001  Philosopher 2 has taken a fork
+2001  Philosopher 2 is eating
+2001  Philosopher 2 will die at 2801
+2001  Philosopher 3 is sleeping
+2001  Philosopher 4 has taken a fork
+2001  Philosopher 4 has taken a fork
+2001  Philosopher 4 is eating
+2001  Philosopher 4 will die at 2801
+2001  Philosopher 5 is sleeping
+2001  Philosopher 1 is thinking
+2201  Philosopher 3 is thinking
+2201  Philosopher 1 has taken a fork
+2201  Philosopher 1 has taken a fork
+2201  Philosopher 1 is eating
+2201  Philosopher 1 will die at 3001
+2201  Philosopher 2 is sleeping
+2201  Philosopher 3 has taken a fork
+2201  Philosopher 3 has taken a fork
+2201  Philosopher 3 is eating
+2201  Philosopher 3 will die at 3001
+2201  Philosopher 4 is sleeping
+2201  Philosopher 5 is thinking
+2401  Philosopher 5 has taken a fork
+2401  Philosopher 5 has taken a fork
+2401  Philosopher 5 is eating
+2401  Philosopher 5 will die at 3201
+2401  Philosopher 1 is sleeping
+2401  Philosopher 2 is thinking
+2401  Philosopher 2 has taken a fork
+2401  Philosopher 2 has taken a fork
+2401  Philosopher 2 is eating
+2401  Philosopher 2 will die at 3201
+2401  Philosopher 3 is sleeping
+2401  Philosopher 4 is thinking
+2601  Philosopher 4 has taken a fork
+2601  Philosopher 4 has taken a fork
+2601  Philosopher 4 is eating
+2601  Philosopher 4 will die at 3401
+2601  Philosopher 5 is sleeping
+2601  Philosopher 1 is thinking
+2601  Philosopher 1 has taken a fork
+2601  Philosopher 1 has taken a fork
+2601  Philosopher 1 is eating
+2601  Philosopher 1 will die at 3401
+2601  Philosopher 2 is sleeping
+2601  Philosopher 3 is thinking
+2801  Philosopher 3 has taken a fork
+2801  Philosopher 3 has taken a fork
+2801  Philosopher 3 is eating
+2801  Philosopher 3 will die at 3601
+2801  Philosopher 4 is sleeping
+2801  Philosopher 5 is thinking
+2801  Philosopher 5 has taken a fork
+2801  Philosopher 5 has taken a fork
+2801  Philosopher 2 is thinking
+2801  Philosopher 1 is sleeping
+2801  Philosopher 5 is eating
+2801  Philosopher 5 will die at 3601
+3001  Philosopher 2 has taken a fork
+3001  Philosopher 2 has taken a fork
+3001  Philosopher 2 is eating
+3001  Philosopher 2 will die at 3801
+3001  Philosopher 3 is sleeping
+3001  Philosopher 4 is thinking
+3001  Philosopher 1 is thinking
+3001  Philosopher 4 has taken a fork
+3001  Philosopher 4 has taken a fork
+3001  Philosopher 4 is eating
+3001  Philosopher 4 will die at 3801
+3001  Philosopher 5 is sleeping
+3201  Philosopher 3 is thinking
+3201  Philosopher 1 has taken a fork
+3201  Philosopher 1 has taken a fork
+3201  Philosopher 1 is eating
+3201  Philosopher 1 will die at 4001
+3201  Philosopher 2 is sleeping
+3201  Philosopher 5 is thinking
+3201  Philosopher 3 has taken a fork
+3201  Philosopher 3 has taken a fork
+3201  Philosopher 3 is eating
+3201  Philosopher 3 will die at 4001
+3201  Philosopher 4 is sleeping
+3401  Philosopher 5 has taken a fork
+3401  Philosopher 5 has taken a fork
+3401  Philosopher 5 is eating
+3401  Philosopher 5 will die at 4201
+3401  Philosopher 1 is sleeping
+3401  Philosopher 2 is thinking
+3401  Philosopher 2 has taken a fork
+3401  Philosopher 2 has taken a fork
+3401  Philosopher 2 is eating
+3401  Philosopher 2 will die at 4201
+3401  Philosopher 3 is sleeping
+3401  Philosopher 4 is thinking
+3601  Philosopher 4 has taken a fork
+3601  Philosopher 4 has taken a fork
+3601  Philosopher 4 is eating
+3601  Philosopher 4 will die at 4401
+3601  Philosopher 5 is sleeping
+3601  Philosopher 1 is thinking
+3602  Philosopher 1 has taken a fork
+3602  Philosopher 1 has taken a fork
+3602  Philosopher 1 is eating
+3602  Philosopher 1 will die at 4402
+3602  Philosopher 3 is thinking
+3602  Philosopher 2 is sleeping
+3801  Philosopher 3 has taken a fork
+3801  Philosopher 3 has taken a fork
+3801  Philosopher 3 is eating
+3801  Philosopher 3 will die at 4601
+3801  Philosopher 4 is sleeping
+3801  Philosopher 5 is thinking
+3802  Philosopher 5 has taken a fork
+3802  Philosopher 5 has taken a fork
+3802  Philosopher 5 is eating
+3802  Philosopher 5 will die at 4602
+3802  Philosopher 1 is sleeping
+3802  Philosopher 2 is thinking
+4001  Philosopher 4 is thinking
+4001  Philosopher 2 has taken a fork
+4001  Philosopher 2 has taken a fork
+4001  Philosopher 2 is eating
+4001  Philosopher 2 will die at 4801
+4001  Philosopher 3 is sleeping
+4002  Philosopher 4 has taken a fork
+4002  Philosopher 4 has taken a fork
+4002  Philosopher 4 is eating
+4002  Philosopher 4 will die at 4802
+4002  Philosopher 5 is sleeping
+4002  Philosopher 1 is thinking
+4201  Philosopher 1 has taken a fork
+4201  Philosopher 1 has taken a fork
+4201  Philosopher 1 is eating
+4201  Philosopher 1 will die at 5001
+4201  Philosopher 2 is sleeping
+4201  Philosopher 3 is thinking
+4202  Philosopher 3 has taken a fork
+4202  Philosopher 3 has taken a fork
+4202  Philosopher 3 is eating
+4202  Philosopher 3 will die at 5002
+4202  Philosopher 4 is sleeping
+4202  Philosopher 5 is thinking
+4401  Philosopher 2 is thinking
+4402  Philosopher 5 has taken a fork
+4402  Philosopher 5 has taken a fork
+4402  Philosopher 5 is eating
+4402  Philosopher 5 will die at 5202
+4402  Philosopher 1 is sleeping
+4402  Philosopher 4 is thinking
+4402  Philosopher 2 has taken a fork
+4402  Philosopher 2 has taken a fork
+4402  Philosopher 2 is eating
+4402  Philosopher 2 will die at 5202
+4402  Philosopher 3 is sleeping
+4602  Philosopher 4 has taken a fork
+4602  Philosopher 4 has taken a fork
+4602  Philosopher 4 is eating
+4602  Philosopher 4 will die at 5402
+4602  Philosopher 5 is sleeping
+4602  Philosopher 1 is thinking
+4602  Philosopher 3 is thinking
+4602  Philosopher 1 has taken a fork
+4602  Philosopher 2 is sleeping
+4602  Philosopher 1 has taken a fork
+4602  Philosopher 1 is eating
+4602  Philosopher 1 will die at 5402
+4802  Philosopher 5 is thinking
+4802  Philosopher 3 has taken a fork
+4802  Philosopher 3 has taken a fork
+4802  Philosopher 3 is eating
+4802  Philosopher 3 will die at 5602
+4802  Philosopher 4 is sleeping
+4802  Philosopher 5 has taken a fork
+4802  Philosopher 5 has taken a fork
+4802  Philosopher 5 is eating
+4802  Philosopher 5 will die at 5602
+4802  Philosopher 1 is sleeping
+4802  Philosopher 2 is thinking
+5002  Philosopher 2 has taken a fork
+5002  Philosopher 2 has taken a fork
+5002  Philosopher 2 is eating
+5002  Philosopher 2 will die at 5802
+5002  Philosopher 3 is sleeping
+5002  Philosopher 4 is thinking
+5002  Philosopher 1 is thinking
+5002  Philosopher 4 has taken a fork
+5002  Philosopher 4 has taken a fork
+5002  Philosopher 4 is eating
+5002  Philosopher 4 will die at 5802
+5002  Philosopher 5 is sleeping
+5202  Philosopher 3 is thinking
+5202  Philosopher 1 has taken a fork
+5202  Philosopher 1 has taken a fork
+5202  Philosopher 1 is eating
+5202  Philosopher 1 will die at 6002
+5202  Philosopher 2 is sleeping
+5202  Philosopher 5 is thinking
+5202  Philosopher 3 has taken a fork
+5202  Philosopher 3 has taken a fork
+5202  Philosopher 3 is eating
+5202  Philosopher 3 will die at 6002
+5202  Philosopher 4 is sleeping
+5402  Philosopher 2 is thinking
+5402  Philosopher 5 has taken a fork
+5402  Philosopher 5 has taken a fork
+5402  Philosopher 5 is eating
+5402  Philosopher 5 will die at 6202
+5402  Philosopher 1 is sleeping
+5402  Philosopher 2 has taken a fork
+5402  Philosopher 2 has taken a fork
+5402  Philosopher 2 is eating
+5402  Philosopher 2 will die at 6202
+5402  Philosopher 3 is sleeping
+5402  Philosopher 4 is thinking
+5602  Philosopher 1 is thinking
+5602  Philosopher 4 has taken a fork
+5602  Philosopher 4 has taken a fork
+5602  Philosopher 4 is eating
+5602  Philosopher 4 will die at 6402
+5602  Philosopher 5 is sleeping
+5602  Philosopher 3 is thinking
+5602  Philosopher 1 has taken a fork
+5602  Philosopher 1 has taken a fork
+5602  Philosopher 1 is eating
+5602  Philosopher 1 will die at 6402
+5602  Philosopher 2 is sleeping
+5802  Philosopher 3 has taken a fork
+5802  Philosopher 3 has taken a fork
+5802  Philosopher 3 is eating
+5802  Philosopher 3 will die at 6602
+5802  Philosopher 4 is sleeping
+5802  Philosopher 5 is thinking
+5802  Philosopher 5 has taken a fork
+5802  Philosopher 5 has taken a fork
+5802  Philosopher 5 is eating
+5802  Philosopher 5 will die at 6602
+5802  Philosopher 2 is thinking
+5802  Philosopher 1 is sleeping
+6002  Philosopher 2 has taken a fork
+6002  Philosopher 2 has taken a fork
+6002  Philosopher 4 is thinking
+6002  Philosopher 2 is eating
+6002  Philosopher 2 will die at 6802
+6002  Philosopher 3 is sleeping
+6002  Philosopher 4 has taken a fork
+6002  Philosopher 1 is thinking
+6002  Philosopher 5 is sleeping
+6002  Philosopher 4 has taken a fork
+6002  Philosopher 4 is eating
+6002  Philosopher 4 will die at 6802
+6202  Philosopher 1 has taken a fork
+6202  Philosopher 1 has taken a fork
+6202  Philosopher 1 is eating
+6202  Philosopher 1 will die at 7002
+6202  Philosopher 2 is sleeping
+6202  Philosopher 3 is thinking
+6202  Philosopher 3 has taken a fork
+6202  Philosopher 3 has taken a fork
+6202  Philosopher 3 is eating
+6202  Philosopher 3 will die at 7002
+6202  Philosopher 4 is sleeping
+6202  Philosopher 5 is thinking
+6402  Philosopher 5 has taken a fork
+6402  Philosopher 5 has taken a fork
+6402  Philosopher 5 is eating
+6402  Philosopher 5 will die at 7202
+6402  Philosopher 1 is sleeping
+6402  Philosopher 2 is thinking
+6402  Philosopher 2 has taken a fork
+6402  Philosopher 2 has taken a fork
+6402  Philosopher 2 is eating
+6402  Philosopher 2 will die at 7202
+6402  Philosopher 3 is sleeping
+6402  Philosopher 4 is thinking
+6602  Philosopher 4 has taken a fork
+6602  Philosopher 4 has taken a fork
+6602  Philosopher 4 is eating
+6602  Philosopher 4 will die at 7402
+6602  Philosopher 1 is thinking
+6602  Philosopher 5 is sleeping
+6602  Philosopher 1 has taken a fork
+6602  Philosopher 1 has taken a fork
+6602  Philosopher 1 is eating
+6602  Philosopher 1 will die at 7402
+6602  Philosopher 2 is sleeping
+6602  Philosopher 3 is thinking
+6802  Philosopher 3 has taken a fork
+6802  Philosopher 3 has taken a fork
+6802  Philosopher 3 is eating
+6802  Philosopher 3 will die at 7602
+6802  Philosopher 4 is sleeping
+6802  Philosopher 5 is thinking
+6803  Philosopher 2 is thinking
+6803  Philosopher 5 has taken a fork
+6803  Philosopher 5 has taken a fork
+6803  Philosopher 5 is eating
+6803  Philosopher 5 will die at 7603
+6803  Philosopher 1 is sleeping
+7002  Philosopher 4 is thinking
+7002  Philosopher 2 has taken a fork
+7002  Philosopher 2 has taken a fork
+7002  Philosopher 2 is eating
+7002  Philosopher 2 will die at 7802
+7002  Philosopher 3 is sleeping
+7003  Philosopher 1 is thinking
+7003  Philosopher 4 has taken a fork
+7003  Philosopher 4 has taken a fork
+7003  Philosopher 4 is eating
+7003  Philosopher 4 will die at 7803
+7003  Philosopher 5 is sleeping
+7202  Philosopher 1 has taken a fork
+7202  Philosopher 1 has taken a fork
+7202  Philosopher 1 is eating
+7202  Philosopher 1 will die at 8002
+7202  Philosopher 2 is sleeping
+7202  Philosopher 3 is thinking
+7203  Philosopher 5 is thinking
+7203  Philosopher 3 has taken a fork
+7203  Philosopher 3 has taken a fork
+7203  Philosopher 3 is eating
+7203  Philosopher 3 will die at 8003
+7203  Philosopher 4 is sleeping
+7403  Philosopher 2 is thinking
+7403  Philosopher 1 is sleeping
+7403  Philosopher 5 has taken a fork
+7403  Philosopher 5 has taken a fork
+7403  Philosopher 5 is eating
+7403  Philosopher 5 will die at 8203
+7403  Philosopher 4 is thinking
+7403  Philosopher 2 has taken a fork
+7403  Philosopher 2 has taken a fork
+7403  Philosopher 2 is eating
+7403  Philosopher 2 will die at 8203
+7403  Philosopher 3 is sleeping
+7603  Philosopher 1 is thinking
+7603  Philosopher 4 has taken a fork
+7603  Philosopher 4 has taken a fork
+7603  Philosopher 4 is eating
+7603  Philosopher 4 will die at 8403
+7603  Philosopher 5 is sleeping
+7603  Philosopher 3 is thinking
+7603  Philosopher 1 has taken a fork
+7603  Philosopher 1 has taken a fork
+7603  Philosopher 1 is eating
+7603  Philosopher 1 will die at 8403
+7603  Philosopher 2 is sleeping
+7803  Philosopher 5 is thinking
+7803  Philosopher 3 has taken a fork
+7803  Philosopher 3 has taken a fork
+7803  Philosopher 3 is eating
+7803  Philosopher 3 will die at 8603
+7803  Philosopher 4 is sleeping
+7803  Philosopher 5 has taken a fork
+7803  Philosopher 5 has taken a fork
+7803  Philosopher 5 is eating
+7803  Philosopher 5 will die at 8603
+7803  Philosopher 1 is sleeping
+7803  Philosopher 2 is thinking
+8003  Philosopher 4 is thinking
+8003  Philosopher 2 has taken a fork
+8003  Philosopher 2 has taken a fork
+8003  Philosopher 2 is eating
+8003  Philosopher 2 will die at 8803
+8003  Philosopher 3 is sleeping
+8003  Philosopher 1 is thinking
+8003  Philosopher 4 has taken a fork
+8003  Philosopher 4 has taken a fork
+8003  Philosopher 4 is eating
+8003  Philosopher 4 will die at 8803
+8003  Philosopher 5 is sleeping
+8203  Philosopher 1 has taken a fork
+8203  Philosopher 1 has taken a fork
+8203  Philosopher 1 is eating
+8203  Philosopher 1 will die at 9003
+8203  Philosopher 2 is sleeping
+8203  Philosopher 3 is thinking
+8203  Philosopher 3 has taken a fork
+8203  Philosopher 3 has taken a fork
+8203  Philosopher 3 is eating
+8203  Philosopher 3 will die at 9003
+8203  Philosopher 4 is sleeping
+8203  Philosopher 5 is thinking
+8403  Philosopher 2 is thinking
+8403  Philosopher 5 has taken a fork
+8403  Philosopher 5 has taken a fork
+8403  Philosopher 5 is eating
+8403  Philosopher 5 will die at 9203
+8403  Philosopher 1 is sleeping
+8403  Philosopher 2 has taken a fork
+8403  Philosopher 2 has taken a fork
+8403  Philosopher 2 is eating
+8403  Philosopher 2 will die at 9203
+8403  Philosopher 3 is sleeping
+8403  Philosopher 4 is thinking
+8603  Philosopher 1 is thinking
+8603  Philosopher 4 has taken a fork
+8603  Philosopher 4 has taken a fork
+8603  Philosopher 4 is eating
+8603  Philosopher 4 will die at 9403
+8603  Philosopher 5 is sleeping
+8603  Philosopher 1 has taken a fork
+8603  Philosopher 1 has taken a fork
+8603  Philosopher 1 is eating
+8603  Philosopher 1 will die at 9403
+8603  Philosopher 2 is sleeping
+8603  Philosopher 3 is thinking
+8803  Philosopher 5 is thinking
+8803  Philosopher 3 has taken a fork
+8803  Philosopher 3 has taken a fork
+8803  Philosopher 3 is eating
+8803  Philosopher 3 will die at 9603
+8803  Philosopher 4 is sleeping
+8803  Philosopher 2 is thinking
+8803  Philosopher 5 has taken a fork
+8803  Philosopher 5 has taken a fork
+8803  Philosopher 5 is eating
+8803  Philosopher 5 will die at 9603
+8803  Philosopher 1 is sleeping
+9003  Philosopher 4 is thinking
+9003  Philosopher 2 has taken a fork
+9003  Philosopher 2 has taken a fork
+9003  Philosopher 2 is eating
+9003  Philosopher 2 will die at 9803
+9003  Philosopher 3 is sleeping
+9003  Philosopher 4 has taken a fork
+9003  Philosopher 4 has taken a fork
+9003  Philosopher 4 is eating
+9003  Philosopher 4 will die at 9803
+9003  Philosopher 5 is sleeping
+9003  Philosopher 1 is thinking
+9203  Philosopher 1 has taken a fork
+9203  Philosopher 1 has taken a fork
+9203  Philosopher 1 is eating
+9203  Philosopher 1 will die at 10003
+9203  Philosopher 2 is sleeping
+9203  Philosopher 3 is thinking
+9203  Philosopher 3 has taken a fork
+9203  Philosopher 5 is thinking
+9203  Philosopher 4 is sleeping
+9203  Philosopher 3 has taken a fork
+9203  Philosopher 3 is eating
+9203  Philosopher 3 will die at 10003
+9403  Philosopher 5 has taken a fork
+9403  Philosopher 5 has taken a fork
+9403  Philosopher 5 is eating
+9403  Philosopher 5 will die at 10203
+9403  Philosopher 1 is sleeping
+9403  Philosopher 2 is thinking
+9403  Philosopher 4 is thinking
+9403  Philosopher 2 has taken a fork
+9403  Philosopher 2 has taken a fork
+9403  Philosopher 2 is eating
+9403  Philosopher 2 will die at 10203
+9403  Philosopher 3 is sleeping
+9603  Philosopher 1 is thinking
+9603  Philosopher 4 has taken a fork
+9603  Philosopher 4 has taken a fork
+9603  Philosopher 4 is eating
+9603  Philosopher 4 will die at 10403
+9603  Philosopher 5 is sleeping
+9603  Philosopher 1 has taken a fork
+9603  Philosopher 1 has taken a fork
+9603  Philosopher 1 is eating
+9603  Philosopher 1 will die at 10403
+9603  Philosopher 2 is sleeping
+9603  Philosopher 3 is thinking
+9803  Philosopher 5 is thinking
+9803  Philosopher 3 has taken a fork
+9803  Philosopher 3 has taken a fork
+9803  Philosopher 3 is eating
+9803  Philosopher 3 will die at 10603
+9803  Philosopher 4 is sleeping
+9804  Philosopher 5 has taken a fork
+9804  Philosopher 5 has taken a fork
+9804  Philosopher 5 is eating
+9804  Philosopher 5 will die at 10604
+9804  Philosopher 1 is sleeping
+9804  Philosopher 2 is thinking
+10003 Philosopher 4 is thinking
+10003 Philosopher 2 has taken a fork
+10003 Philosopher 2 has taken a fork
+10003 Philosopher 2 is eating
+10003 Philosopher 2 will die at 10803
+10003 Philosopher 3 is sleeping
+10004 Philosopher 1 is thinking
+10004 Philosopher 4 has taken a fork
+10004 Philosopher 4 has taken a fork
+10004 Philosopher 4 is eating
+10004 Philosopher 4 will die at 10804
+10004 Philosopher 5 is sleeping
+10204 Philosopher 1 has taken a fork
+10204 Philosopher 1 has taken a fork
+10204 Philosopher 1 is eating
+10204 Philosopher 1 will die at 11004
+10204 Philosopher 2 is sleeping
+10204 Philosopher 3 is thinking
+10204 Philosopher 5 is thinking
+10204 Philosopher 3 has taken a fork
+10204 Philosopher 3 has taken a fork
+10204 Philosopher 3 is eating
+10204 Philosopher 3 will die at 11004
+10204 Philosopher 4 is sleeping
+10404 Philosopher 5 has taken a fork
+10404 Philosopher 5 has taken a fork
+10404 Philosopher 1 is sleeping
+10404 Philosopher 2 is thinking
+10404 Philosopher 5 is eating
+10404 Philosopher 5 will die at 11204
+10404 Philosopher 2 has taken a fork
+10404 Philosopher 2 has taken a fork
+10404 Philosopher 2 is eating
+10404 Philosopher 2 will die at 11204
+10404 Philosopher 3 is sleeping
+10404 Philosopher 4 is thinking
+10604 Philosopher 1 is thinking
+10604 Philosopher 4 has taken a fork
+10604 Philosopher 4 has taken a fork
+10604 Philosopher 4 is eating
+10604 Philosopher 4 will die at 11404
+10604 Philosopher 5 is sleeping
+10604 Philosopher 1 has taken a fork
+10604 Philosopher 1 has taken a fork
+10604 Philosopher 1 is eating
+10604 Philosopher 1 will die at 11404
+10604 Philosopher 2 is sleeping
+10604 Philosopher 3 is thinking
+10804 Philosopher 3 has taken a fork
+10804 Philosopher 5 is thinking
+10804 Philosopher 4 is sleeping
+10804 Philosopher 3 has taken a fork
+10804 Philosopher 3 is eating
+10804 Philosopher 3 will die at 11604
+10804 Philosopher 5 has taken a fork
+10804 Philosopher 5 has taken a fork
+10804 Philosopher 5 is eating
+10804 Philosopher 5 will die at 11604
+10804 Philosopher 2 is thinking
+10804 Philosopher 1 is sleeping
+11004 Philosopher 4 is thinking
+11004 Philosopher 2 has taken a fork
+11004 Philosopher 2 has taken a fork
+11004 Philosopher 2 is eating
+11004 Philosopher 2 will die at 11804
+11004 Philosopher 3 is sleeping
+11004 Philosopher 4 has taken a fork
+11004 Philosopher 4 has taken a fork
+11004 Philosopher 4 is eating
+11004 Philosopher 4 will die at 11804
+11004 Philosopher 5 is sleeping
+11004 Philosopher 1 is thinking
+11204 Philosopher 3 is thinking
+11204 Philosopher 1 has taken a fork
+11204 Philosopher 1 has taken a fork
+11204 Philosopher 2 is sleeping
+11204 Philosopher 1 is eating
+11204 Philosopher 1 will die at 12004
+11204 Philosopher 3 has taken a fork
+11204 Philosopher 3 has taken a fork
+11204 Philosopher 3 is eating
+11204 Philosopher 3 will die at 12004
+11204 Philosopher 4 is sleeping
+11204 Philosopher 5 is thinking
+11404 Philosopher 5 has taken a fork
+11404 Philosopher 1 is sleeping
+11404 Philosopher 5 has taken a fork
+11404 Philosopher 5 is eating
+11404 Philosopher 5 will die at 12204
+11404 Philosopher 2 is thinking
+11404 Philosopher 4 is thinking
+11404 Philosopher 2 has taken a fork
+11404 Philosopher 2 has taken a fork
+11404 Philosopher 2 is eating
+11404 Philosopher 2 will die at 12204
+11404 Philosopher 3 is sleeping
+11604 Philosopher 4 has taken a fork
+11604 Philosopher 4 has taken a fork
+11604 Philosopher 4 is eating
+11604 Philosopher 4 will die at 12404
+11604 Philosopher 5 is sleeping
+11604 Philosopher 1 is thinking
+11604 Philosopher 1 has taken a fork
+11604 Philosopher 1 has taken a fork
+11604 Philosopher 1 is eating
+11604 Philosopher 1 will die at 12404
+11604 Philosopher 2 is sleeping
+11604 Philosopher 3 is thinking
+11804 Philosopher 5 is thinking
+11804 Philosopher 3 has taken a fork
+11804 Philosopher 3 has taken a fork
+11804 Philosopher 3 is eating
+11804 Philosopher 3 will die at 12604
+11804 Philosopher 4 is sleeping
+11805 Philosopher 5 has taken a fork
+11805 Philosopher 5 has taken a fork
+11805 Philosopher 5 is eating
+11805 Philosopher 2 is thinking
+11805 Philosopher 5 will die at 12605
+11805 Philosopher 1 is sleeping
+12004 Philosopher 2 has taken a fork
+12004 Philosopher 2 has taken a fork
+12004 Philosopher 2 is eating
+12004 Philosopher 2 will die at 12804
+12004 Philosopher 3 is sleeping
+12004 Philosopher 4 is thinking
+12005 Philosopher 1 is thinking
+12005 Philosopher 4 has taken a fork
+12005 Philosopher 4 has taken a fork
+12005 Philosopher 4 is eating
+12005 Philosopher 4 will die at 12805
+12005 Philosopher 5 is sleeping
+12204 Philosopher 1 has taken a fork
+12204 Philosopher 1 has taken a fork
+12204 Philosopher 1 is eating
+12204 Philosopher 1 will die at 13004
+12204 Philosopher 2 is sleeping
+12204 Philosopher 3 is thinking
+12205 Philosopher 3 has taken a fork
+12205 Philosopher 3 has taken a fork
+12205 Philosopher 3 is eating
+12205 Philosopher 3 will die at 13005
+12205 Philosopher 4 is sleeping
+12205 Philosopher 5 is thinking
+12404 Philosopher 5 has taken a fork
+12404 Philosopher 5 has taken a fork
+12404 Philosopher 5 is eating
+12404 Philosopher 5 will die at 13204
+12404 Philosopher 1 is sleeping
+12404 Philosopher 2 is thinking
+12405 Philosopher 2 has taken a fork
+12405 Philosopher 2 has taken a fork
+12405 Philosopher 2 is eating
+12405 Philosopher 2 will die at 13205
+12405 Philosopher 3 is sleeping
+12405 Philosopher 4 is thinking
+12604 Philosopher 4 has taken a fork
+12604 Philosopher 4 has taken a fork
+12604 Philosopher 4 is eating
+12604 Philosopher 4 will die at 13404
+12604 Philosopher 5 is sleeping
+12604 Philosopher 1 is thinking
+12605 Philosopher 1 has taken a fork
+12605 Philosopher 1 has taken a fork
+12605 Philosopher 1 is eating
+12605 Philosopher 1 will die at 13405
+12605 Philosopher 3 is thinking
+12605 Philosopher 2 is sleeping
+12804 Philosopher 5 is thinking
+12804 Philosopher 3 has taken a fork
+12804 Philosopher 3 has taken a fork
+12804 Philosopher 3 is eating
+12804 Philosopher 3 will die at 13604
+12804 Philosopher 4 is sleeping
+12805 Philosopher 5 has taken a fork
+12805 Philosopher 5 has taken a fork
+12805 Philosopher 5 is eating
+12805 Philosopher 5 will die at 13605
+12805 Philosopher 1 is sleeping
+12805 Philosopher 2 is thinking
+13004 Philosopher 2 has taken a fork
+13004 Philosopher 2 has taken a fork
+13004 Philosopher 3 is sleeping
+13004 Philosopher 4 is thinking
+13004 Philosopher 2 is eating
+13004 Philosopher 2 will die at 13804
+13005 Philosopher 4 has taken a fork
+13005 Philosopher 4 has taken a fork
+13005 Philosopher 4 is eating
+13005 Philosopher 4 will die at 13805
+13005 Philosopher 5 is sleeping
+13005 Philosopher 1 is thinking
+13205 Philosopher 1 has taken a fork
+13205 Philosopher 1 has taken a fork
+13205 Philosopher 1 is eating
+13205 Philosopher 1 will die at 14005
+13205 Philosopher 2 is sleeping
+13205 Philosopher 3 is thinking
+13205 Philosopher 5 is thinking
+13205 Philosopher 3 has taken a fork
+13205 Philosopher 3 has taken a fork
+13205 Philosopher 3 is eating
+13205 Philosopher 3 will die at 14005
+13205 Philosopher 4 is sleeping
+13405 Philosopher 5 has taken a fork
+13405 Philosopher 5 has taken a fork
+13405 Philosopher 5 is eating
+13405 Philosopher 5 will die at 14205
+13405 Philosopher 1 is sleeping
+13405 Philosopher 2 is thinking
+13405 Philosopher 4 is thinking
+13405 Philosopher 2 has taken a fork
+13405 Philosopher 2 has taken a fork
+13405 Philosopher 2 is eating
+13405 Philosopher 2 will die at 14205
+13405 Philosopher 3 is sleeping
+13605 Philosopher 1 is thinking
+13605 Philosopher 4 has taken a fork
+13605 Philosopher 4 has taken a fork
+13605 Philosopher 4 is eating
+13605 Philosopher 4 will die at 14405
+13605 Philosopher 5 is sleeping
+13605 Philosopher 1 has taken a fork
+13605 Philosopher 1 has taken a fork
+13605 Philosopher 1 is eating
+13605 Philosopher 1 will die at 14405
+13605 Philosopher 2 is sleeping
+13605 Philosopher 3 is thinking
+13805 Philosopher 5 is thinking
+13805 Philosopher 3 has taken a fork
+13805 Philosopher 3 has taken a fork
+13805 Philosopher 3 is eating
+13805 Philosopher 3 will die at 14605
+13805 Philosopher 4 is sleeping
+13805 Philosopher 2 is thinking
+13805 Philosopher 5 has taken a fork
+13805 Philosopher 5 has taken a fork
+13805 Philosopher 5 is eating
+13805 Philosopher 5 will die at 14605
+13805 Philosopher 1 is sleeping
+14005 Philosopher 4 is thinking
+14005 Philosopher 2 has taken a fork
+14005 Philosopher 2 has taken a fork
+14005 Philosopher 2 is eating
+14005 Philosopher 2 will die at 14805
+14005 Philosopher 3 is sleeping
+14005 Philosopher 4 has taken a fork
+14005 Philosopher 4 has taken a fork
+14005 Philosopher 4 is eating
+14005 Philosopher 4 will die at 14805
+14005 Philosopher 5 is sleeping
+14005 Philosopher 1 is thinking
+14205 Philosopher 1 has taken a fork
+14205 Philosopher 1 has taken a fork
+14205 Philosopher 1 is eating
+14205 Philosopher 2 is sleeping
+14205 Philosopher 1 will die at 15005
+14205 Philosopher 3 is thinking
+14205 Philosopher 5 is thinking
+14205 Philosopher 3 has taken a fork
+14205 Philosopher 3 has taken a fork
+14205 Philosopher 3 is eating
+14205 Philosopher 3 will die at 15005
+14205 Philosopher 4 is sleeping
+14405 Philosopher 2 is thinking
+14405 Philosopher 5 has taken a fork
+14405 Philosopher 5 has taken a fork
+14405 Philosopher 5 is eating
+14405 Philosopher 5 will die at 15205
+14405 Philosopher 1 is sleeping
+14405 Philosopher 2 has taken a fork
+14405 Philosopher 2 has taken a fork
+14405 Philosopher 2 is eating
+14405 Philosopher 2 will die at 15205
+14405 Philosopher 3 is sleeping
+14405 Philosopher 4 is thinking
+14605 Philosopher 4 has taken a fork
+14605 Philosopher 4 has taken a fork
+14605 Philosopher 4 is eating
+14605 Philosopher 4 will die at 15405
+14605 Philosopher 5 is sleeping
+14605 Philosopher 1 is thinking
+14605 Philosopher 1 has taken a fork
+14605 Philosopher 1 has taken a fork
+14605 Philosopher 1 is eating
+14605 Philosopher 1 will die at 15405
+14605 Philosopher 3 is thinking
+14605 Philosopher 2 is sleeping
+14805 Philosopher 3 has taken a fork
+14805 Philosopher 3 has taken a fork
+14805 Philosopher 3 is eating
+14805 Philosopher 3 will die at 15605
+14805 Philosopher 5 is thinking
+14805 Philosopher 4 is sleeping
+14806 Philosopher 5 has taken a fork
+14806 Philosopher 5 has taken a fork
+14806 Philosopher 5 is eating
+14806 Philosopher 5 will die at 15606
+14806 Philosopher 1 is sleeping
+14806 Philosopher 2 is thinking
+15005 Philosopher 2 has taken a fork
+15005 Philosopher 2 has taken a fork
+15005 Philosopher 2 is eating
+15005 Philosopher 2 will die at 15805
+15005 Philosopher 3 is sleeping
+15005 Philosopher 4 is thinking
+15006 Philosopher 4 has taken a fork
+15006 Philosopher 4 has taken a fork
+15006 Philosopher 4 is eating
+15006 Philosopher 4 will die at 15806
+15006 Philosopher 5 is sleeping
+15006 Philosopher 1 is thinking
+15205 Philosopher 1 has taken a fork
+15205 Philosopher 3 is thinking
+15205 Philosopher 2 is sleeping
+15205 Philosopher 1 has taken a fork
+15205 Philosopher 1 is eating
+15205 Philosopher 1 will die at 16005
+15206 Philosopher 5 is thinking
+15206 Philosopher 3 has taken a fork
+15206 Philosopher 3 has taken a fork
+15206 Philosopher 3 is eating
+15206 Philosopher 3 will die at 16006
+15206 Philosopher 4 is sleeping
+15405 Philosopher 2 is thinking
+15405 Philosopher 5 has taken a fork
+15405 Philosopher 5 has taken a fork
+15405 Philosopher 5 is eating
+15405 Philosopher 5 will die at 16205
+15405 Philosopher 1 is sleeping
+15406 Philosopher 4 is thinking
+15406 Philosopher 2 has taken a fork
+15406 Philosopher 2 has taken a fork
+15406 Philosopher 2 is eating
+15406 Philosopher 2 will die at 16206
+15406 Philosopher 3 is sleeping
+15605 Philosopher 4 has taken a fork
+15605 Philosopher 4 has taken a fork
+15605 Philosopher 4 is eating
+15605 Philosopher 4 will die at 16405
+15605 Philosopher 5 is sleeping
+15605 Philosopher 1 is thinking
+15606 Philosopher 3 is thinking
+15606 Philosopher 1 has taken a fork
+15606 Philosopher 1 has taken a fork
+15606 Philosopher 1 is eating
+15606 Philosopher 1 will die at 16406
+15606 Philosopher 2 is sleeping
+15805 Philosopher 5 is thinking
+15805 Philosopher 3 has taken a fork
+15805 Philosopher 3 has taken a fork
+15805 Philosopher 3 is eating
+15805 Philosopher 3 will die at 16605
+15805 Philosopher 4 is sleeping
+15806 Philosopher 5 has taken a fork
+15806 Philosopher 5 has taken a fork
+15806 Philosopher 5 is eating
+15806 Philosopher 5 will die at 16606
+15806 Philosopher 1 is sleeping
+15806 Philosopher 2 is thinking
+16005 Philosopher 2 has taken a fork
+16005 Philosopher 2 has taken a fork
+16005 Philosopher 2 is eating
+16006 Philosopher 2 will die at 16806
+16005 Philosopher 3 is sleeping
+16006 Philosopher 4 is thinking
+16006 Philosopher 1 is thinking
+16006 Philosopher 4 has taken a fork
+16006 Philosopher 4 has taken a fork
+16006 Philosopher 4 is eating
+16006 Philosopher 4 will die at 16806
+16006 Philosopher 5 is sleeping
+16206 Philosopher 1 has taken a fork
+16206 Philosopher 1 has taken a fork
+16206 Philosopher 1 is eating
+16206 Philosopher 1 will die at 17006
+16206 Philosopher 2 is sleeping
+16206 Philosopher 3 is thinking
+16206 Philosopher 5 is thinking
+16206 Philosopher 3 has taken a fork
+16206 Philosopher 3 has taken a fork
+16206 Philosopher 3 is eating
+16206 Philosopher 3 will die at 17006
+16206 Philosopher 4 is sleeping
+16406 Philosopher 5 has taken a fork
+16406 Philosopher 5 has taken a fork
+16406 Philosopher 5 is eating
+16406 Philosopher 5 will die at 17206
+16406 Philosopher 1 is sleeping
+16406 Philosopher 2 is thinking
+16406 Philosopher 2 has taken a fork
+16406 Philosopher 2 has taken a fork
+16406 Philosopher 2 is eating
+16406 Philosopher 2 will die at 17206
+16406 Philosopher 3 is sleeping
+16406 Philosopher 4 is thinking
+16606 Philosopher 4 has taken a fork
+16606 Philosopher 4 has taken a fork
+16606 Philosopher 4 is eating
+16606 Philosopher 4 will die at 17406
+16606 Philosopher 1 is thinking
+16606 Philosopher 5 is sleeping
+16606 Philosopher 3 is thinking
+16606 Philosopher 1 has taken a fork
+16606 Philosopher 1 has taken a fork
+16606 Philosopher 1 is eating
+16606 Philosopher 1 will die at 17406
+16606 Philosopher 2 is sleeping
+16806 Philosopher 3 has taken a fork
+16806 Philosopher 3 has taken a fork
+16806 Philosopher 3 is eating
+16806 Philosopher 3 will die at 17606
+16806 Philosopher 4 is sleeping
+16806 Philosopher 5 is thinking
+16806 Philosopher 5 has taken a fork
+16806 Philosopher 5 has taken a fork
+16806 Philosopher 5 is eating
+16806 Philosopher 5 will die at 17606
+16806 Philosopher 1 is sleeping
+16806 Philosopher 2 is thinking
+17006 Philosopher 2 has taken a fork
+17006 Philosopher 2 has taken a fork
+17006 Philosopher 2 is eating
+17006 Philosopher 2 will die at 17806
+17006 Philosopher 3 is sleeping
+17006 Philosopher 4 is thinking
+17006 Philosopher 4 has taken a fork
+17006 Philosopher 4 has taken a fork
+17006 Philosopher 4 is eating
+17006 Philosopher 4 will die at 17806
+17006 Philosopher 1 is thinking
+17006 Philosopher 5 is sleeping
+17206 Philosopher 3 is thinking
+17206 Philosopher 1 has taken a fork
+17206 Philosopher 1 has taken a fork
+17206 Philosopher 1 is eating
+17206 Philosopher 1 will die at 18006
+17206 Philosopher 2 is sleeping
+17206 Philosopher 5 is thinking
+17206 Philosopher 3 has taken a fork
+17206 Philosopher 3 has taken a fork
+17206 Philosopher 3 is eating
+17206 Philosopher 3 will die at 18006
+17206 Philosopher 4 is sleeping
+17406 Philosopher 2 is thinking
+17406 Philosopher 5 has taken a fork
+17406 Philosopher 5 has taken a fork
+17406 Philosopher 5 is eating
+17406 Philosopher 5 will die at 18206
+17406 Philosopher 1 is sleeping
+17406 Philosopher 2 has taken a fork
+17406 Philosopher 2 has taken a fork
+17406 Philosopher 2 is eating
+17406 Philosopher 2 will die at 18206
+17406 Philosopher 3 is sleeping
+17406 Philosopher 4 is thinking
+17606 Philosopher 1 is thinking
+17606 Philosopher 4 has taken a fork
+17606 Philosopher 4 has taken a fork
+17606 Philosopher 4 is eating
+17606 Philosopher 4 will die at 18406
+17606 Philosopher 5 is sleeping
+17606 Philosopher 1 has taken a fork
+17606 Philosopher 1 has taken a fork
+17606 Philosopher 1 is eating
+17606 Philosopher 1 will die at 18406
+17606 Philosopher 2 is sleeping
+17606 Philosopher 3 is thinking
+17806 Philosopher 3 has taken a fork
+17806 Philosopher 3 has taken a fork
+17806 Philosopher 3 is eating
+17806 Philosopher 3 will die at 18606
+17806 Philosopher 4 is sleeping
+17806 Philosopher 5 is thinking
+17807 Philosopher 5 has taken a fork
+17807 Philosopher 5 has taken a fork
+17807 Philosopher 5 is eating
+17807 Philosopher 5 will die at 18607
+17807 Philosopher 1 is sleeping
+17807 Philosopher 2 is thinking
+18006 Philosopher 4 is thinking
+18006 Philosopher 2 has taken a fork
+18006 Philosopher 2 has taken a fork
+18006 Philosopher 2 is eating
+18006 Philosopher 2 will die at 18806
+18006 Philosopher 3 is sleeping
+18007 Philosopher 4 has taken a fork
+18007 Philosopher 4 has taken a fork
+18007 Philosopher 4 is eating
+18007 Philosopher 4 will die at 18807
+18007 Philosopher 5 is sleeping
+18007 Philosopher 1 is thinking
+18206 Philosopher 1 has taken a fork
+18206 Philosopher 1 has taken a fork
+18206 Philosopher 1 is eating
+18206 Philosopher 1 will die at 19006
+18206 Philosopher 2 is sleeping
+18206 Philosopher 3 is thinking
+18207 Philosopher 5 is thinking
+18207 Philosopher 3 has taken a fork
+18207 Philosopher 3 has taken a fork
+18207 Philosopher 3 is eating
+18207 Philosopher 3 will die at 19007
+18207 Philosopher 4 is sleeping
+18406 Philosopher 2 is thinking
+18406 Philosopher 5 has taken a fork
+18406 Philosopher 5 has taken a fork
+18406 Philosopher 5 is eating
+18406 Philosopher 5 will die at 19206
+18406 Philosopher 1 is sleeping
+18407 Philosopher 2 has taken a fork
+18407 Philosopher 2 has taken a fork
+18407 Philosopher 2 is eating
+18407 Philosopher 2 will die at 19207
+18407 Philosopher 3 is sleeping
+18407 Philosopher 4 is thinking
+18606 Philosopher 4 has taken a fork
+18606 Philosopher 4 has taken a fork
+18606 Philosopher 1 is thinking
+18606 Philosopher 4 is eating
+18606 Philosopher 4 will die at 19406
+18606 Philosopher 5 is sleeping
+18607 Philosopher 3 is thinking
+18607 Philosopher 2 is sleeping
+18607 Philosopher 1 has taken a fork
+18607 Philosopher 1 has taken a fork
+18607 Philosopher 1 is eating
+18607 Philosopher 1 will die at 19407
+18806 Philosopher 5 is thinking
+18807 Philosopher 3 has taken a fork
+18807 Philosopher 3 has taken a fork
+18807 Philosopher 3 is eating
+18807 Philosopher 3 will die at 19607
+18807 Philosopher 4 is sleeping
+18807 Philosopher 5 has taken a fork
+18807 Philosopher 5 has taken a fork
+18807 Philosopher 5 is eating
+18807 Philosopher 5 will die at 19607
+18807 Philosopher 1 is sleeping
+18807 Philosopher 2 is thinking
+19007 Philosopher 4 is thinking
+19007 Philosopher 2 has taken a fork
+19007 Philosopher 2 has taken a fork
+19007 Philosopher 2 is eating
+19007 Philosopher 2 will die at 19807
+19007 Philosopher 3 is sleeping
+19007 Philosopher 4 has taken a fork
+19007 Philosopher 4 has taken a fork
+19007 Philosopher 4 is eating
+19007 Philosopher 4 will die at 19807
+19007 Philosopher 5 is sleeping
+19007 Philosopher 1 is thinking
+19207 Philosopher 1 has taken a fork
+19207 Philosopher 1 has taken a fork
+19207 Philosopher 1 is eating
+19207 Philosopher 1 will die at 20007
+19207 Philosopher 2 is sleeping
+19207 Philosopher 3 is thinking
+19207 Philosopher 3 has taken a fork
+19207 Philosopher 3 has taken a fork
+19207 Philosopher 3 is eating
+19207 Philosopher 3 will die at 20007
+19207 Philosopher 4 is sleeping
+19207 Philosopher 5 is thinking
+19407 Philosopher 5 has taken a fork
+19407 Philosopher 5 has taken a fork
+19407 Philosopher 5 is eating
+19407 Philosopher 5 will die at 20207
+19407 Philosopher 1 is sleeping
+19407 Philosopher 2 is thinking
+19407 Philosopher 2 has taken a fork
+19407 Philosopher 2 has taken a fork
+19407 Philosopher 2 is eating
+19407 Philosopher 2 will die at 20207
+19407 Philosopher 3 is sleeping
+19407 Philosopher 4 is thinking
+19607 Philosopher 1 is thinking
+19607 Philosopher 4 has taken a fork
+19607 Philosopher 4 has taken a fork
+19607 Philosopher 4 is eating
+19607 Philosopher 4 will die at 20407
+19607 Philosopher 5 is sleeping
+19607 Philosopher 3 is thinking
+19607 Philosopher 1 has taken a fork
+19607 Philosopher 1 has taken a fork
+19607 Philosopher 1 is eating
+19607 Philosopher 1 will die at 20407
+19607 Philosopher 2 is sleeping
+19807 Philosopher 3 has taken a fork
+19807 Philosopher 3 has taken a fork
+19807 Philosopher 4 is sleeping
+19807 Philosopher 3 is eating
+19807 Philosopher 5 is thinking
+19807 Philosopher 3 will die at 20607
+19807 Philosopher 5 has taken a fork
+19807 Philosopher 1 is sleeping
+19807 Philosopher 5 has taken a fork
+19807 Philosopher 5 is eating
+19807 Philosopher 5 will die at 20607
+19807 Philosopher 2 is thinking
+20007 Philosopher 4 is thinking
+20007 Philosopher 2 has taken a fork
+20007 Philosopher 2 has taken a fork
+20007 Philosopher 2 is eating
+20007 Philosopher 2 will die at 20807
+20007 Philosopher 3 is sleeping
+20007 Philosopher 1 is thinking
+20007 Philosopher 4 has taken a fork
+20007 Philosopher 4 has taken a fork
+20007 Philosopher 4 is eating
+20007 Philosopher 4 will die at 20807
+20007 Philosopher 5 is sleeping
+20207 Philosopher 3 is thinking
+20207 Philosopher 1 has taken a fork
+20207 Philosopher 1 has taken a fork
+20207 Philosopher 1 is eating
+20207 Philosopher 1 will die at 21007
+20207 Philosopher 2 is sleeping
+20207 Philosopher 5 is thinking
+20207 Philosopher 3 has taken a fork
+20207 Philosopher 3 has taken a fork
+20207 Philosopher 3 is eating
+20207 Philosopher 3 will die at 21007
+20207 Philosopher 4 is sleeping
+20407 Philosopher 2 is thinking
+20407 Philosopher 5 has taken a fork
+20407 Philosopher 5 has taken a fork
+20407 Philosopher 5 is eating
+20407 Philosopher 5 will die at 21207
+20407 Philosopher 1 is sleeping
+20407 Philosopher 4 is thinking
+20407 Philosopher 2 has taken a fork
+20407 Philosopher 2 has taken a fork
+20407 Philosopher 2 is eating
+20407 Philosopher 2 will die at 21207
+20407 Philosopher 3 is sleeping
+20607 Philosopher 4 has taken a fork
+20607 Philosopher 4 has taken a fork
+20607 Philosopher 4 is eating
+20607 Philosopher 4 will die at 21407
+20607 Philosopher 5 is sleeping
+20607 Philosopher 1 is thinking
+20607 Philosopher 1 has taken a fork
+20607 Philosopher 1 has taken a fork
+20607 Philosopher 1 is eating
+20607 Philosopher 1 will die at 21407
+20607 Philosopher 2 is sleeping
+20607 Philosopher 3 is thinking
+20807 Philosopher 3 has taken a fork
+20807 Philosopher 3 has taken a fork
+20807 Philosopher 3 is eating
+20807 Philosopher 3 will die at 21607
+20807 Philosopher 4 is sleeping
+20807 Philosopher 5 is thinking
+20808 Philosopher 5 has taken a fork
+20808 Philosopher 5 has taken a fork
+20808 Philosopher 5 is eating
+20808 Philosopher 5 will die at 21608
+20808 Philosopher 1 is sleeping
+20808 Philosopher 2 is thinking
+21007 Philosopher 2 has taken a fork
+21007 Philosopher 2 has taken a fork
+21007 Philosopher 2 is eating
+21007 Philosopher 2 will die at 21807
+21007 Philosopher 3 is sleeping
+21007 Philosopher 4 is thinking
+21008 Philosopher 4 has taken a fork
+21008 Philosopher 4 has taken a fork
+21008 Philosopher 4 is eating
+21008 Philosopher 4 will die at 21808
+21008 Philosopher 1 is thinking
+21008 Philosopher 5 is sleeping
+21207 Philosopher 1 has taken a fork
+21207 Philosopher 1 has taken a fork
+21207 Philosopher 1 is eating
+21207 Philosopher 1 will die at 22007
+21207 Philosopher 2 is sleeping
+21207 Philosopher 3 is thinking
+21208 Philosopher 5 is thinking
+21208 Philosopher 3 has taken a fork
+21208 Philosopher 4 is sleeping
+21208 Philosopher 3 has taken a fork
+21208 Philosopher 3 is eating
+21208 Philosopher 3 will die at 22008
+21407 Philosopher 5 has taken a fork
+21407 Philosopher 5 has taken a fork
+21407 Philosopher 5 is eating
+21407 Philosopher 5 will die at 22207
+21407 Philosopher 1 is sleeping
+21407 Philosopher 2 is thinking
+21408 Philosopher 4 is thinking
+21408 Philosopher 2 has taken a fork
+21408 Philosopher 2 has taken a fork
+21408 Philosopher 2 is eating
+21408 Philosopher 2 will die at 22208
+21408 Philosopher 3 is sleeping
+21607 Philosopher 4 has taken a fork
+21607 Philosopher 4 has taken a fork
+21607 Philosopher 4 is eating
+21607 Philosopher 4 will die at 22407
+21607 Philosopher 5 is sleeping
+21607 Philosopher 1 is thinking
+21608 Philosopher 1 has taken a fork
+21608 Philosopher 1 has taken a fork
+21608 Philosopher 1 is eating
+21608 Philosopher 1 will die at 22408
+21608 Philosopher 2 is sleeping
+21608 Philosopher 3 is thinking
+21807 Philosopher 3 has taken a fork
+21807 Philosopher 3 has taken a fork
+21807 Philosopher 3 is eating
+21807 Philosopher 3 will die at 22607
+21807 Philosopher 4 is sleeping
+21807 Philosopher 5 is thinking
+21808 Philosopher 5 has taken a fork
+21808 Philosopher 5 has taken a fork
+21808 Philosopher 5 is eating
+21808 Philosopher 5 will die at 22608
+21808 Philosopher 1 is sleeping
+21808 Philosopher 2 is thinking
+22007 Philosopher 4 is thinking
+22008 Philosopher 3 is sleeping
+22008 Philosopher 2 has taken a fork
+22008 Philosopher 2 has taken a fork
+22008 Philosopher 2 is eating
+22008 Philosopher 2 will die at 22808
+22008 Philosopher 4 has taken a fork
+22008 Philosopher 4 has taken a fork
+22008 Philosopher 4 is eating
+22008 Philosopher 4 will die at 22808
+22008 Philosopher 1 is thinking
+22008 Philosopher 5 is sleeping
+22208 Philosopher 3 is thinking
+22208 Philosopher 1 has taken a fork
+22208 Philosopher 1 has taken a fork
+22208 Philosopher 1 is eating
+22208 Philosopher 1 will die at 23008
+22208 Philosopher 2 is sleeping
+22208 Philosopher 3 has taken a fork
+22208 Philosopher 3 has taken a fork
+22208 Philosopher 3 is eating
+22208 Philosopher 3 will die at 23008
+22208 Philosopher 4 is sleeping
+22208 Philosopher 5 is thinking
+22408 Philosopher 2 is thinking
+22408 Philosopher 5 has taken a fork
+22408 Philosopher 5 has taken a fork
+22408 Philosopher 5 is eating
+22408 Philosopher 5 will die at 23208
+22408 Philosopher 1 is sleeping
+22408 Philosopher 2 has taken a fork
+22408 Philosopher 2 has taken a fork
+22408 Philosopher 2 is eating
+22408 Philosopher 2 will die at 23208
+22408 Philosopher 4 is thinking
+22408 Philosopher 3 is sleeping
+22608 Philosopher 1 is thinking
+22608 Philosopher 4 has taken a fork
+22608 Philosopher 4 has taken a fork
+22608 Philosopher 4 is eating
+22608 Philosopher 4 will die at 23408
+22608 Philosopher 5 is sleeping
+22608 Philosopher 1 has taken a fork
+22608 Philosopher 1 has taken a fork
+22608 Philosopher 1 is eating
+22608 Philosopher 1 will die at 23408
+22608 Philosopher 2 is sleeping
+22608 Philosopher 3 is thinking
+22808 Philosopher 5 is thinking
+22808 Philosopher 3 has taken a fork
+22808 Philosopher 3 has taken a fork
+22808 Philosopher 3 is eating
+22808 Philosopher 3 will die at 23608
+22808 Philosopher 4 is sleeping
+22808 Philosopher 5 has taken a fork
+22808 Philosopher 5 has taken a fork
+22808 Philosopher 5 is eating
+22808 Philosopher 5 will die at 23608
+22808 Philosopher 1 is sleeping
+22808 Philosopher 2 is thinking
+23008 Philosopher 4 is thinking
+23008 Philosopher 2 has taken a fork
+23008 Philosopher 2 has taken a fork
+23008 Philosopher 2 is eating
+23008 Philosopher 2 will die at 23808
+23008 Philosopher 3 is sleeping
+23008 Philosopher 4 has taken a fork
+23008 Philosopher 4 has taken a fork
+23008 Philosopher 4 is eating
+23008 Philosopher 4 will die at 23808
+23008 Philosopher 5 is sleeping
+23008 Philosopher 1 is thinking
+23208 Philosopher 1 has taken a fork
+23208 Philosopher 1 has taken a fork
+23208 Philosopher 2 is sleeping
+23208 Philosopher 1 is eating
+23208 Philosopher 3 is thinking
+23208 Philosopher 1 will die at 24008
+23208 Philosopher 3 has taken a fork
+23208 Philosopher 3 has taken a fork
+23208 Philosopher 3 is eating
+23208 Philosopher 3 will die at 24008
+23208 Philosopher 4 is sleeping
+23208 Philosopher 5 is thinking
+23408 Philosopher 2 is thinking
+23408 Philosopher 5 has taken a fork
+23408 Philosopher 5 has taken a fork
+23408 Philosopher 5 is eating
+23408 Philosopher 5 will die at 24208
+23408 Philosopher 1 is sleeping
+23408 Philosopher 2 has taken a fork
+23408 Philosopher 2 has taken a fork
+23408 Philosopher 2 is eating
+23408 Philosopher 2 will die at 24208
+23408 Philosopher 3 is sleeping
+23408 Philosopher 4 is thinking
+23608 Philosopher 1 is thinking
+23608 Philosopher 4 has taken a fork
+23608 Philosopher 4 has taken a fork
+23608 Philosopher 4 is eating
+23608 Philosopher 4 will die at 24408
+23608 Philosopher 5 is sleeping
+23608 Philosopher 1 has taken a fork
+23608 Philosopher 1 has taken a fork
+23608 Philosopher 1 is eating
+23608 Philosopher 1 will die at 24408
+23608 Philosopher 3 is thinking
+23608 Philosopher 2 is sleeping
+23808 Philosopher 5 is thinking
+23808 Philosopher 3 has taken a fork
+23808 Philosopher 3 has taken a fork
+23808 Philosopher 3 is eating
+23808 Philosopher 3 will die at 24608
+23808 Philosopher 4 is sleeping
+23808 Philosopher 5 has taken a fork
+23808 Philosopher 5 has taken a fork
+23808 Philosopher 5 is eating
+23808 Philosopher 5 will die at 24608
+23808 Philosopher 1 is sleeping
+23808 Philosopher 2 is thinking
+24008 Philosopher 2 has taken a fork
+24008 Philosopher 2 has taken a fork
+24008 Philosopher 2 is eating
+24008 Philosopher 2 will die at 24808
+24008 Philosopher 3 is sleeping
+24008 Philosopher 4 is thinking
+24008 Philosopher 1 is thinking
+24008 Philosopher 5 is sleeping
+24008 Philosopher 4 has taken a fork
+24008 Philosopher 4 has taken a fork
+24008 Philosopher 4 is eating
+24008 Philosopher 4 will die at 24808
+24208 Philosopher 1 has taken a fork
+24208 Philosopher 1 has taken a fork
+24208 Philosopher 1 is eating
+24208 Philosopher 1 will die at 25008
+24208 Philosopher 2 is sleeping
+24208 Philosopher 3 is thinking
+24209 Philosopher 5 is thinking
+24209 Philosopher 3 has taken a fork
+24209 Philosopher 3 has taken a fork
+24209 Philosopher 3 is eating
+24209 Philosopher 3 will die at 25009
+24209 Philosopher 4 is sleeping
+24408 Philosopher 5 has taken a fork
+24408 Philosopher 5 has taken a fork
+24408 Philosopher 5 is eating
+24408 Philosopher 5 will die at 25208
+24408 Philosopher 1 is sleeping
+24408 Philosopher 2 is thinking
+24409 Philosopher 2 has taken a fork
+24409 Philosopher 2 has taken a fork
+24409 Philosopher 2 is eating
+24409 Philosopher 2 will die at 25209
+24409 Philosopher 3 is sleeping
+24409 Philosopher 4 is thinking
+24608 Philosopher 4 has taken a fork
+24608 Philosopher 4 has taken a fork
+24608 Philosopher 4 is eating
+24608 Philosopher 4 will die at 25408
+24608 Philosopher 5 is sleeping
+24608 Philosopher 1 is thinking
+24609 Philosopher 1 has taken a fork
+24609 Philosopher 1 has taken a fork
+24609 Philosopher 1 is eating
+24609 Philosopher 1 will die at 25409
+24609 Philosopher 3 is thinking
+24609 Philosopher 2 is sleeping
+24808 Philosopher 5 is thinking
+24809 Philosopher 3 has taken a fork
+24809 Philosopher 3 has taken a fork
+24809 Philosopher 3 is eating
+24809 Philosopher 3 will die at 25609
+24809 Philosopher 4 is sleeping
+24809 Philosopher 5 has taken a fork
+24809 Philosopher 5 has taken a fork
+24809 Philosopher 5 is eating
+24809 Philosopher 5 will die at 25609
+24809 Philosopher 1 is sleeping
+24809 Philosopher 2 is thinking
+25009 Philosopher 4 is thinking
+25009 Philosopher 2 has taken a fork
+25009 Philosopher 2 has taken a fork
+25009 Philosopher 2 is eating
+25009 Philosopher 2 will die at 25809
+25009 Philosopher 3 is sleeping
+25009 Philosopher 4 has taken a fork
+25009 Philosopher 4 has taken a fork
+25009 Philosopher 4 is eating
+25009 Philosopher 4 will die at 25809
+25009 Philosopher 1 is thinking
+25009 Philosopher 5 is sleeping
+25209 Philosopher 1 has taken a fork
+25209 Philosopher 1 has taken a fork
+25209 Philosopher 1 is eating
+25209 Philosopher 1 will die at 26009
+25209 Philosopher 2 is sleeping
+25209 Philosopher 3 is thinking
+25209 Philosopher 5 is thinking
+25209 Philosopher 3 has taken a fork
+25209 Philosopher 3 has taken a fork
+25209 Philosopher 3 is eating
+25209 Philosopher 3 will die at 26009
+25209 Philosopher 4 is sleeping
+25409 Philosopher 5 has taken a fork
+25409 Philosopher 5 has taken a fork
+25409 Philosopher 5 is eating
+25409 Philosopher 5 will die at 26209
+25409 Philosopher 1 is sleeping
+25409 Philosopher 2 is thinking
+25409 Philosopher 2 has taken a fork
+25409 Philosopher 2 has taken a fork
+25409 Philosopher 2 is eating
+25409 Philosopher 2 will die at 26209
+25409 Philosopher 3 is sleeping
+25409 Philosopher 4 is thinking
+25609 Philosopher 4 has taken a fork
+25609 Philosopher 4 has taken a fork
+25609 Philosopher 4 is eating
+25609 Philosopher 4 will die at 26409
+25609 Philosopher 5 is sleeping
+25609 Philosopher 1 is thinking
+25609 Philosopher 3 is thinking
+25609 Philosopher 1 has taken a fork
+25609 Philosopher 1 has taken a fork
+25609 Philosopher 1 is eating
+25609 Philosopher 1 will die at 26409
+25609 Philosopher 2 is sleeping
+25809 Philosopher 5 is thinking
+25809 Philosopher 3 has taken a fork
+25809 Philosopher 4 is sleeping
+25809 Philosopher 3 has taken a fork
+25809 Philosopher 3 is eating
+25809 Philosopher 3 will die at 26609
+25809 Philosopher 5 has taken a fork
+25809 Philosopher 5 has taken a fork
+25809 Philosopher 5 is eating
+25809 Philosopher 5 will die at 26609
+25809 Philosopher 1 is sleeping
+25809 

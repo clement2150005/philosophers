@@ -1,0 +1,79 @@
+0     Philosopher 2 has taken a fork
+0     Philosopher 2 has taken a fork
+0     Philosopher 2 is eating
+0     Philosopher 2 will die at 800
+0     Philosopher 4 has taken a fork
+0     Philosopher 4 has taken a fork
+0     Philosopher 4 is eating
+0     Philosopher 4 will die at 800
+200   Philosopher 1 has taken a fork
+200   Philosopher 1 has taken a fork
+200   Philosopher 1 is eating
+200   Philosopher 1 will die at 1000
+200   Philosopher 2 is sleeping
+200   Philosopher 3 has taken a fork
+200   Philosopher 3 has taken a fork
+200   Philosopher 3 is eating
+200   Philosopher 3 will die at 1000
+200   Philosopher 4 is sleeping
+400   Philosopher 5 has taken a fork
+400   Philosopher 5 has taken a fork
+400   Philosopher 5 is eating
+400   Philosopher 5 will die at 1200
+400   Philosopher 1 is sleeping
+400   Philosopher 3 is sleeping
+400   Philosopher 2 is thinking
+400   Philosopher 2 has taken a fork
+400   Philosopher 2 has taken a fork
+400   Philosopher 2 is eating
+400   Philosopher 2 will die at 1200
+400   Philosopher 4 is thinking
+600   Philosopher 4 has taken a fork
+600   Philosopher 4 has taken a fork
+600   Philosopher 4 is eating
+600   Philosopher 4 will die at 1400
+600   Philosopher 1 is thinking
+600   Philosopher 5 is sleeping
+601   Philosopher 3 is thinking
+601   Philosopher 1 has taken a fork
+601   Philosopher 1 has taken a fork
+601   Philosopher 1 is eating
+601   Philosopher 1 will die at 1401
+601   Philosopher 2 is sleeping
+801   Philosopher 3 has taken a fork
+801   Philosopher 3 has taken a fork
+801   Philosopher 4 is sleeping
+801   Philosopher 3 is eating
+801   Philosopher 3 will die at 1601
+801   Philosopher 2 is thinking
+801   Philosopher 1 is sleeping
+801   Philosopher 5 is thinking
+801   Philosopher 5 has taken a fork
+801   Philosopher 5 has taken a fork
+801   Philosopher 5 is eating
+801   Philosopher 5 will die at 1601
+1001  Philosopher 4 is thinking
+1001  Philosopher 1 is thinking
+1001  Philosopher 2 has taken a fork
+1001  Philosopher 2 has taken a fork
+1001  Philosopher 2 is eating
+1001  Philosopher 2 will die at 1801
+1001  Philosopher 3 is sleeping
+1001  Philosopher 4 has taken a fork
+1001  Philosopher 4 has taken a fork
+1001  Philosopher 4 is eating
+1001  Philosopher 4 will die at 1801
+1001  Philosopher 5 is sleeping
+1201  Philosopher 3 is thinking
+1201  Philosopher 5 is thinking
+1201  Philosopher 5 has taken a fork
+1201  Philosopher 5 has taken a fork
+1201  Philosopher 5 is eating
+1201  Philosopher 5 will die at 2001
+1201  Philosopher 4 is sleeping
+1201  Philosopher 3 has taken a fork
+1201  Philosopher 3 has taken a fork
+1201  Philosopher 3 is eating
+1201  Philosopher 3 will die at 2001
+1201  Philosopher 2 is sleeping
+1401  Philosopher 1 has died
